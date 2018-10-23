@@ -14,7 +14,8 @@ syntax-highlight: True
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+ # Blog: 'latest-post'
+ Profile: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
