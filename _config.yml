@@ -2,7 +2,7 @@
 # Site settings
 
 #url: "https://le4ker.me"
-url: "https://www.hufeng.xyzs"
+url: "https://www.hufeng.xyz"
 
 environment: prod
 
@@ -148,7 +148,7 @@ timeline-img: "/img/career/default.jpg"
 
 email: "tigerhu7@yahoo.com"
 
-pgp: "https://gist.github.com/le4ker/c1bdd195454e6fc1751a"
+#pgp: "https://gist.github.com/le4ker/c1bdd195454e6fc1751a"
 
 ################
 # Author Blurb #
