@@ -100,21 +100,21 @@ events:
 
    - image: "/img/career/quantilogic.jpg"
      date: "Jul 2018 - Today"
-     description: "Imaging Algorithm Engineer @ <a href=\"https://www.quantilogic.com.cn/\">Quantilogic Inc</a>"
+     description: "Imaging Algorithm Engineer @ <a href=\"https://www.quantilogic.com.cn/\">Quantilogic Inc</a>, Hangzhou, China "
   
 
    - image: "/img/career/default.jpg"
      date: "Sep 2017 - Jul 2018"
-     description: "Algorithm Engineer @ <a href=\"https://www.4dmedvision.com/\">Shengshi Inc</a>"
+     description: "Algorithm Engineer @ <a href=\"https://www.4dmedvision.com/\">Shengshi Inc</a>, Hangzhou, China"
 
 
    - image: "/img/career/UTD.jpg"
      date: "Aug 2010 - Jun 2016"
-     description: "Graduate Student @ <a href=\"https://www.utdallas.edu/\">University of Texas at Dallas</a>"
+     description: "Graduate Student and Teaching/Research Assistant @ <a href=\"https://www.utdallas.edu/\">University of Texas at Dallas</a>, Richardson, Texas "
 
    - image: "/img/career/qfnu.jpg"
      date: "Sep 2006 - Jun 2010"
-     description: "Bachelor Student @ <a href=\"https://www.qfnu.edu.cn/\">Qufu Normal University</a>"
+     description: "Bachelor Student @ <a href=\"https://www.qfnu.edu.cn/\">Qufu Normal University</a>, Qufu, China"
 
 
   # - image: "/img/career/blocktopus.png"
