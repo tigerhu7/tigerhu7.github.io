@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Research and Experience
-category: cv
+category: 
 tags: [ 'jekyll' ]
 ---
 I don't remember exactly how many blogs I created the past years, but this one feels like the one.
