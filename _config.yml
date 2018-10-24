@@ -114,7 +114,7 @@ events:
 
    - image: "/img/career/qfnu.jpg"
      date: "Sep 2006 - Jun 2010"
-     description: "Bachelor Student @ <a href=\"https://www.qfnu.edu.cn/\">Qufu Normal University</a>, Qufu, China"
+     description: "Bachelor Student @ <a href=\"http://www.qfnu.edu.cn/\">Qufu Normal University</a>, Qufu, China"
 
 
   # - image: "/img/career/blocktopus.png"
