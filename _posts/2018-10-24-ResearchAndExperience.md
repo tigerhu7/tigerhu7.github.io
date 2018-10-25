@@ -8,7 +8,7 @@ tags: [ 'jekyll' ]
 
 I have been studying mathematics for more than 10 years, most of my academic research and work experience are related to mathematics.
 
-[here](https://github.com/tigerhu7/tigerhu7.github.io/blob/master/Ktrans-Population%20AIF.pdf)
+[here](https://www.hufeng.xyz/Ktrans-Population%20AIF.pdf)
 
 I don't remember exactly how many blogs I created the past years, but this one feels like the one.
 I had one blog on Tumblr and three or four on Wordpress.
