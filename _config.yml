@@ -38,8 +38,9 @@ lang: "en"
 title: "{ Hufeng (虎峰) Wang}"
 short-title: "{ Hufeng }"
 favicon: "/img/key.png"
-description: "Homepage of Hufeng Wang, writing on security, privacy and open source. Opinions expressed here are mine."
-keywords: "wang, hufeng, security, privacy, open source, encryption, software, PwnMail, UoA, di, CERN, MDCN, Microsoft, jekyll"
+description: "Homepage of Hufeng Wang"
+#keywords: "wang, hufeng, security, privacy, open source, encryption, software, PwnMail, UoA, di, CERN, MDCN, Microsoft, jekyll"
+keywords: "wang, hufeng, geometry, programmer, algorithms, technology, healthcare, roadtrip, nature, space "
 
 ################
 # Intro layout #
@@ -68,8 +69,9 @@ start-delay: 2000 # Default 200
 delete-delay: 50000 # Default 5000
 lines: # You can add HTML Tags in the Text
   - text: "Know when to hold and when to fold"
-  - text: "Protecting what you ❤️"
   - text: "Tomorrow never knows"
+  - text: "Protecting what you ❤️"
+
 ########
 # Blog #
 ########
@@ -106,7 +108,7 @@ events:
 
    - image: "/img/career/default.jpg"
      date: "Sep 2017 - Jul 2018"
-     description: "Algorithm Engineer @ <a href=\"https://www.4dmedvision.com/\">Shengshi Inc</a>, Hangzhou, China"
+     description: "Algorithm Engineer @ <a href=\"http://www.4dmedvision.com/\">Shengshi Inc</a>, Hangzhou, China"
 
 
    - image: "/img/career/UTD.jpg"
