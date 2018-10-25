@@ -67,6 +67,7 @@ type-speed: 4 # Default 10
 start-delay: 2000 # Default 200
 delete-delay: 50000 # Default 5000
 lines: # You can add HTML Tags in the Text
+  - text: "Know when to hold and when to fold"
   - text: "Protecting what you ❤️"
   - text: "Tomorrow never knows"
 ########
@@ -101,7 +102,7 @@ events:
    - image: "/img/career/quantilogic.jpg"
      date: "Jul 2018 - Today"
      description: "Imaging Algorithm Engineer @ <a href=\"https://www.quantilogic.com.cn/\">Quantilogic Inc</a>, Hangzhou, China "
-  
+
 
    - image: "/img/career/default.jpg"
      date: "Sep 2017 - Jul 2018"
@@ -163,9 +164,9 @@ email: "tigerhu7@yahoo.com"
 # In the past, he worked as a Linux kernel developer at the CERN CERT team, did Data Mining research at the University of Athens and innovated on Microsoft’s Office 365 cloud services.
 
 # Currently he is on a mission to accelerate Distributed Ledger Technologies."
-author_blurb: "Hufeng is an applied mathematician who is dedicated to intelligent healthcare field. 
+author_blurb: "Hufeng is an applied mathematician who is dedicated to intelligent healthcare field.
 
-Currently, he is working for Quantilogic Inc, Hangzhou, China, where he works with great scientists and engineers to build and test algorithms in medical image processing, pathological analysis and etc. 
+Currently, he is working for Quantilogic Inc, Hangzhou, China, where he works with great scientists and engineers to build and test algorithms in medical image processing, pathological analysis and etc.
 
 He gained experience in various techniques in medical image processing and has worked on several projects of cardiovascular, hepatic, celebral topics."
 author_blurb_image: "/img/me.jpg"
