@@ -68,8 +68,8 @@ type-speed: 4 # Default 10
 start-delay: 2000 # Default 200
 delete-delay: 50000 # Default 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Know when to hold and when to fold"
   - text: "Tomorrow never knows"
+  - text: "Know when to hold and when to fold"
   - text: "Protecting what you ❤️"
 
 ########
