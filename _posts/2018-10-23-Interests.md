@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Interests
-category:
+category: life
 tags: [ 'life, roadtrip' ]
 ---
 
