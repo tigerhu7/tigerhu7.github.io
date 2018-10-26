@@ -1,14 +1,35 @@
 ---
 layout: post
 section-type: post
-title: Academic Research and Work Experience
-category: work
-tags: [ 'jekyll' ]
+title: Research and Experience
+category:
+tags: [ 'work, resume' ]
 ---
 
-I have been studying mathematics for more than 10 years, most of my academic research and work experience are related to mathematics.
+Brief introduction to my academic research and work experience can be found in my [resume](https://github.com/tigerhu7/tigerhu7.github.io/blob/master/_doc/resume.pdf?raw=true).
+A full list of my research and experience is as following.
 
-Download [here](https://github.com/tigerhu7/tigerhu7.github.io/blob/master/_doc/test.pdf?raw=true)
+### I. Medical Imaging Processing and Analysis
+
+##### Liver Cancer Reporting System
+In this work,
+
+##### Coronary Artery Detection and Segmentation
+
+##### Aortic Vessels Segmentation and 3D Reconstruction
+
+#####
+
+
+### II. Shape Deformation
+
+
+
+##### Numerical Computation
+
+##### Mathematical Modeling
+
+
 
 I don't remember exactly how many blogs I created the past years, but this one feels like the one.
 I had one blog on Tumblr and three or four on Wordpress.

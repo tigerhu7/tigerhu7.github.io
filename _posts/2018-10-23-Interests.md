@@ -2,9 +2,18 @@
 layout: post
 section-type: post
 title: Interests
-category: life
-tags: [ 'jekyll' ]
+category:
+tags: [ 'life, roadtrip' ]
 ---
+
+### Roadtrip
+
+I like traveling a lot, especially by cars. I picked up this habit when I was studying in the States. Often, I drive out of town for two or three days, yet, I did spend weeks of time on the road. My record is 23 days.
+
+A good achievement I can show off is my footprints are on every contiguous states, that is all states except Alaska and Hawaii.
+
+
+
 I don't remember exactly how many blogs I created the past years, but this one feels like the one.
 I had one blog on Tumblr and three or four on Wordpress.
 Tumblr's brand didn't align with my vision of my blog.
