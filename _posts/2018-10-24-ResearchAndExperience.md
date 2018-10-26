@@ -2,10 +2,9 @@
 layout: post
 section-type: post
 title: Research and Experience
-category:
+category: work
 tags: [ 'work, resume' ]
 ---
-
 Brief introduction to my academic research and work experience can be found in my [resume](https://github.com/tigerhu7/tigerhu7.github.io/blob/master/_doc/resume.pdf?raw=true).
 A full list of my research and experience is as following.
 
