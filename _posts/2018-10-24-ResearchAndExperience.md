@@ -10,22 +10,21 @@ includes a brief introduction to my academic research and work experience.
 A full list of my research and experience, including some pictures, is as following.
 
 ###  【Medical Image Processing and Analysis】
-
+<br/>
 <img style="float: left;"  width="30%"   src="/img/profile/research/labtocat.png">
+</br>
 
 **Liver Cancer Reporting System**   
 -design algorithm and write program on liver cancer reports based on ACL Li-RADS  
 -integrate reporting system to software using Qt
 
 
-<img style="float: left;"  width="3"   src="/img/profile/research/labtocat.png">
 
 **Liver Cancer Drug Effectiveness Evaluation**  
 -compute drug permeation on tumor i.e. Ktrans value  
--evaluate effectiveness through statistics
+-evaluate effectiveness through statistics    
 
 
-<img style="float: left;"  width="240"   src="/img/profile/research/aorta_surface.png">
 **Coronary Artery Segmentation and 3D Visualization**  
 -detect and segment coronary arteries from CT Angiography images  
 -retrieve coronary arteries, reconstruct them in 3D  
@@ -48,15 +47,16 @@ A full list of my research and experience, including some pictures, is as follow
 -retrieve velocity vector field from velocity Phases, and optimize velocity field   
 -simulate flow in 3D, compute FFR, OSI, WSS and ect.  
 
+<!--
 ![Aorta Streamline](/img/profile/research/aorta_streamline.png)
-
+-->
 **Aorta CT and MRI Registration**  
 -segment aorta of same patient from different sources (CT, MRI)
 -retrieve surface point cloud  
 -use revised RANSAC algorithm for registration of the two
-
+<!--
 ![Aorta Registration](/img/profile/research/aorta_registration.png)
-
+-->
 **Use Superpixel on Brain Tumor Detection**   
 -use SLICO to generate superpixels on brain MR image   
 -detect abnormal/tumor region using simulated annealing method    
