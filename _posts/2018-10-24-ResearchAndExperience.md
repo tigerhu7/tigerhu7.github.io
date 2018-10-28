@@ -9,7 +9,7 @@ My [resume](https://github.com/tigerhu7/tigerhu7.github.io/blob/master/_doc/resu
 includes a brief introduction to my academic research and work experience.
 A full list of my research and experience, including some pictures, is as following.
 
-###  ~Medical Image Processing and Analysis~
+###  【Medical Image Processing and Analysis】
 **Liver Cancer Reporting System**  
 -design algorithm and write program on liver cancer reports based on ACL Li-RADS  
 -integrate reporting system to software using Qt
@@ -40,7 +40,7 @@ A full list of my research and experience, including some pictures, is as follow
 -compute optimal parameters  
 -estimate tumor position using symmetry measures  
 
-### ~Shape Deformation~
+### 【Shape Deformation】
 
 **Geodesic Shooting Method in Shape Deformation**  
 -set up geodesic shooting equations for Large Diffeomorphic Deformation Metric Mapping  
@@ -48,21 +48,21 @@ A full list of my research and experience, including some pictures, is as follow
 
 
 
-### ~Numerical Computation~  
+### 【Numerical Computation】  
 **Use Reaction-Advection-Diffusion Equation to simulate brain tumor growth**  
 -set up reaction-advection-diffusion equation to simulate tumor growth  
 -find optimal parameters  
 -generate meshgrid and use Finite Element Method to find numerical solution  
 
 
-### ~General Image Processing~   
+### 【General Image Processing】   
 **Beef Marbling Grading**  
 -segment ribeye using active contour method  
 -utilize superpixel to obtain blocks, then distinguish fat and lean blocks  
 -calculate far portion, fat blocks   portion and fractal dimension to get marbling grades  
 
 
-### ~Teaching Experience~   
+### 【Teaching Experience】   
 **Teaching Assistant**  
 -I have been instruct students in problem session for 5 years at University of Texas at Dallas  
 -I instructed Calculus(1,2,3), Linear Algebra, Ordinary Differential Equation, Calculus(Cohort), Multivariable Calculus  
