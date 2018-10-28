@@ -5,7 +5,7 @@ title: Research and Experience
 category: work
 tags: [ 'work, resume' ]
 ---
-My [resume](https://github.com/tigerhu7/tigerhu7.github.io/blob/master/_doc/resume.pdf?raw=true)
+My [**resume**](https://github.com/tigerhu7/tigerhu7.github.io/blob/master/_doc/resume.pdf?raw=true)
 includes a brief introduction to my academic research and work experience.
 A full list of my research and experience, including some pictures, is as following.
 
@@ -15,7 +15,7 @@ A full list of my research and experience, including some pictures, is as follow
 -integrate reporting system to software using Qt
 
 **Liver Cancer Drug Effectiveness Evaluation**  
--compute drug permuability on tumor Ktrans  
+-compute drug permeation on tumor i.e. Ktrans value  
 -evaluate effectiveness through statistics
 
 **Coronary Artery Segmentation and 3D Visualization**  
@@ -23,6 +23,8 @@ A full list of my research and experience, including some pictures, is as follow
 -retrieve coronary arteries, reconstruct them in 3D  
 -calculate geometries for blood flow modelling  
 -visualize narrowness and friction flow rate  
+
+![Aorta Surface](/img/profile/research/aorta_surface.png)
 
 **Aorta Segmentation and Flow Simulation**  
 -segment aorta of ascend, aortic arch and aorta of descend from Phase-Constrast MRI   
