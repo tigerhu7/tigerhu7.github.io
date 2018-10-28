@@ -24,7 +24,7 @@ A full list of my research and experience, including some pictures, is as follow
 -calculate geometries for blood flow modelling  
 -visualize narrowness and friction flow rate  
 
-![Aorta Surface](/img/profile/research/aorta_surface.png =200*)
+![Aorta Surface](/img/profile/research/aorta_surface.png){:height="16px" width="16px"}
 
 **Aorta Segmentation and Flow Simulation**  
 -segment aorta of ascend, aortic arch and aorta of descend from Phase-Constrast MRI   
