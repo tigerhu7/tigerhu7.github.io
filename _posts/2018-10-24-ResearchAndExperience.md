@@ -12,18 +12,18 @@ A full list of my research and experience, including some pictures, is as follow
 ###  【Medical Image Processing and Analysis】
 
 <img style="float: left;"  width="30%"   src="/img/profile/research/labtocat.png">
-<br/>
+
 **Liver Cancer Reporting System**   
 -design algorithm and write program on liver cancer reports based on ACL Li-RADS  
 -integrate reporting system to software using Qt
-</br>
+
 
 <img style="float: left;"  width="3"   src="/img/profile/research/labtocat.png">
-<br/>
+
 **Liver Cancer Drug Effectiveness Evaluation**  
 -compute drug permeation on tumor i.e. Ktrans value  
 -evaluate effectiveness through statistics
-</br>
+
 
 <img style="float: left;"  width="240"   src="/img/profile/research/aorta_surface.png">
 **Coronary Artery Segmentation and 3D Visualization**  
