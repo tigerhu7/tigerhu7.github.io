@@ -32,12 +32,20 @@ A full list of my research and experience, including some pictures, is as follow
 -retrieve velocity vector field from velocity Phases, and optimize velocity field   
 -simulate flow in 3D, compute FFR, OSI, WSS and ect.  
 
+![Aorta Streamline](/img/profile/research/aorta_streamline.png)
 
-**Use Superpixel on brain tumor detection**   
+**Aorta CT and MRI Registration**  
+-segment aorta of same patient from different sources (CT, MRI)
+-retrieve surface point cloud  
+-use revised RANSAC algorithm for registration of the two
+
+![Aorta Registration](/img/profile/research/aorta_registration.png)
+
+**Use Superpixel on Brain Tumor Detection**   
 -use SLICO to generate superpixels on brain MR image   
 -detect abnormal/tumor region using simulated annealing method    
 
-**Brain tumor detection using asymmetry**  
+**Brain Tumor Detection using Asymmetry**  
 -generate Homogeneous Transform Matrix  
 -compute optimal parameters  
 -estimate tumor position using symmetry measures  
