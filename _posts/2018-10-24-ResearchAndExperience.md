@@ -40,8 +40,8 @@ A full list of my research and experience, including some pictures, is as follow
 -compute optimal parameters  
 -estimate tumor position using symmetry measures  
 
+#### <font color=#00ffff > ~Shape Deformation~  </font>
 
-#### ~Shape Deformation~  
 **Geodesic Shooting Method in Shape Deformation**  
 -set up geodesic shooting equations for Large Diffeomorphic Deformation Metric Mapping  
 -using various kernels/filters, to compare the results     
