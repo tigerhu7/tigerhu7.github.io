@@ -35,7 +35,6 @@ A full list of my research and experience, including some pictures, is as follow
 -use SLICO to generate superpixels on brain MR image   
 -detect abnormal/tumor region using simulated annealing method    
 
-
 **Brain tumor detection using asymmetry**  
 -generate Homogeneous Transform Matrix  
 -compute optimal parameters  
@@ -45,23 +44,25 @@ A full list of my research and experience, including some pictures, is as follow
 #### ~Shape Deformation~  
 **Geodesic Shooting Method in Shape Deformation**  
 -set up geodesic shooting equations for Large Diffeomorphic Deformation Metric Mapping  
--using various kernels/filters, to compare the results   
+-using various kernels/filters, to compare the results     
 
-##### ~Numerical Computation~  
+
+
+#### ~Numerical Computation~  
 **Use Reaction-Advection-Diffusion Equation to simulate brain tumor growth**  
 -set up reaction-advection-diffusion equation to simulate tumor growth  
 -find optimal parameters  
 -generate meshgrid and use Finite Element Method to find numerical solution  
 
 
-##### ~General Image Processing~   
+#### ~General Image Processing~   
 **Beef Marbling Grading**  
 -segment ribeye using active contour method  
 -utilize superpixel to obtain blocks, then distinguish fat and lean blocks  
 -calculate far portion, fat blocks   portion and fractal dimension to get marbling grades  
 
 
-##### ~Teaching Experience~   
+#### ~Teaching Experience~   
 **Teaching Assistant**  
 -I have been instruct students in problem session for 5 years at University of Texas at Dallas  
 -I instructed Calculus(1,2,3), Linear Algebra, Ordinary Differential Equation, Calculus(Cohort), Multivariable Calculus  
