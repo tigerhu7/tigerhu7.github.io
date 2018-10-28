@@ -10,14 +10,21 @@ includes a brief introduction to my academic research and work experience.
 A full list of my research and experience, including some pictures, is as following.
 
 ###  【Medical Image Processing and Analysis】
+
+<img style="float: left;"  width="300"   src="/img/profile/research/labtocat.png">
 **Liver Cancer Reporting System**   
 -design algorithm and write program on liver cancer reports based on ACL Li-RADS  
 -integrate reporting system to software using Qt
 
+
+
+<img style="float: left;"  width="300"   src="/img/profile/research/labtocat.png">
 **Liver Cancer Drug Effectiveness Evaluation**  
 -compute drug permeation on tumor i.e. Ktrans value  
 -evaluate effectiveness through statistics
 
+
+<img style="float: left;"  width="300"   src="/img/profile/research/aorta_surface.png">
 **Coronary Artery Segmentation and 3D Visualization**  
 -detect and segment coronary arteries from CT Angiography images  
 -retrieve coronary arteries, reconstruct them in 3D  
@@ -31,7 +38,7 @@ A full list of my research and experience, including some pictures, is as follow
 <img style="float: left;"  alt="drawing"  width="100"   src="/img/profile/research/aorta_surface.png">     
 -->
 
-<img style="float: left;"  width="240"   src="/img/profile/research/aorta_surface.png">
+
 
 
 **Aorta Segmentation and Flow Simulation**  
