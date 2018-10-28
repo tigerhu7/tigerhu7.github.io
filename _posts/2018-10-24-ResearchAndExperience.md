@@ -25,6 +25,7 @@ A full list of my research and experience, including some pictures, is as follow
 -visualize narrowness and friction flow rate  
 
 ![Aorta Surface](/img/profile/research/aorta_surface.png){:height="30px" width="100px"}
+<img style="float: left;" src="/img/profile/research/aorta_surface.png">
 
 **Aorta Segmentation and Flow Simulation**  
 -segment aorta of ascend, aortic arch and aorta of descend from Phase-Constrast MRI   
