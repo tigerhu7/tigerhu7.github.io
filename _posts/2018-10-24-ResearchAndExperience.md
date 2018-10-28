@@ -27,7 +27,9 @@ A full list of my research and experience, including some pictures, is as follow
 <!--
 ![Aorta Surface](/img/profile/research/aorta_surface.png){:height="30px" width="100px"}
 -->
-<img style="float: left;"  alt="drawing"  width="100"   src="/img/profile/research/aorta_surface.png">    
+<img style="float: left;"  alt="drawing"  width="100"   src="/img/profile/research/aorta_surface.png">    </br>
+
+
 
 
 **Aorta Segmentation and Flow Simulation**  
