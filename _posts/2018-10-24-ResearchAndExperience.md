@@ -30,10 +30,12 @@ A full list of my research and experience, including some pictures, is as follow
 </div>
 -->
 
--design algorithm and write program on liver cancer reports based on ACL Li-RADS  
--integrate reporting system to software using Qt  
-<img width="50%"  src="/img/profile/research/labtocat.png">  
+- design algorithm and write program on liver cancer reports based on ACL Li-RADS  
+- integrate reporting system to software using Qt  
 
+<!--
+<img width="50%"  src="/img/profile/research/labtocat.png">  
+-->
 
 **Liver Cancer Drug Effectiveness Evaluation**  
 -compute drug permeation on tumor i.e. Ktrans value  
