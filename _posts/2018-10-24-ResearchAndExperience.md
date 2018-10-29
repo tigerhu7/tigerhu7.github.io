@@ -14,52 +14,52 @@ A full list of my research and experience, including some pictures, is as follow
 **Liver Cancer Reporting System**   
 -design algorithm and write program on liver cancer reports based on ACL Li-RADS  
 -integrate reporting system to software using Qt  
-<img width="50%"  src="/img/profile/research/labtocat.png">  
+<img width="30%"  src="/img/profile/research/labtocat.png">  
 
 
 **Liver Cancer Drug Effectiveness Evaluation**   
 -compute drug permeation on tumor i.e. Ktrans value  
 -evaluate effectiveness through statistics    
-<img width="50%"  src="/img/profile/research/labtocat.png">
+<img width="30%"  src="/img/profile/research/labtocat.png">
 
 **Coronary Artery Segmentation and 3D Visualization**     
 -detect and segment coronary arteries from CT Angiography images  
 -retrieve coronary arteries, reconstruct them in 3D  
 -calculate geometries for blood flow modelling  
 -visualize narrowness and friction flow rate  
-<img width="50%"  src="/img/profile/research/coronary_3D.png">
+<img width="30%"  src="/img/profile/research/coronary_3D.png">
 
 **Aorta Segmentation and Flow Simulation**     
 -segment aorta of ascend, aortic arch and aorta of descend from Phase-Constrast MRI   
 -reconstruct them in 3D  
 -retrieve velocity vector field from velocity Phases, and optimize velocity field   
 -simulate flow in 3D, compute FFR, OSI, WSS and ect.  
-<img width="50%"  src="/img/profile/research/aorta_streamline.png">
+<img width="30%"  src="/img/profile/research/aorta_streamline.png">
 
 **Aorta CT and MRI Registration**    
 -segment aorta of same patient from different sources (CT, MRI)  
 -retrieve surface point cloud   
 -use revised RANSAC algorithm for registration of the two  
-<img width="50%"  src="/img/profile/research/aorta_registration.png">
+<img width="30%"  src="/img/profile/research/aorta_registration.png">
 
 
 **Use Superpixel on Brain Tumor Detection**   
 -use SLICO to generate superpixels on brain MR image   
 -detect abnormal/tumor region using simulated annealing method  
-<img width="50%"  src="/img/profile/research/labtocat.png">  
+<img width="30%"  src="/img/profile/research/labtocat.png">  
 
 **Brain Tumor Detection using Asymmetry**  
 -generate Homogeneous Transform Matrix  
 -compute optimal parameters  
 -estimate tumor position using symmetry measures  
-<img width="50%"  src="/img/profile/research/labtocat.png">
+<img width="30%"  src="/img/profile/research/labtocat.png">
 
 ####Shape Deformation
 
 **Geodesic Shooting Method in Shape Deformation**   
 -set up geodesic shooting equations for Large Diffeomorphic Deformation Metric Mapping    
 -using various kernels/filters, to compare the results      
-<img width="50%"  src="/img/profile/research/labtocat.png">
+<img width="30%"  src="/img/profile/research/labtocat.png">
 
 
 #### 【Numerical Computation】  
@@ -67,18 +67,18 @@ A full list of my research and experience, including some pictures, is as follow
 -set up reaction-advection-diffusion equation to simulate tumor growth  
 -find optimal parameters  
 -generate meshgrid and use Finite Element Method to find numerical solution  
-<img width="50%"  src="/img/profile/research/labtocat.png">
+<img width="30%"  src="/img/profile/research/labtocat.png">
 
 #### 【General Image Processing】   
 **Beef Marbling Grading**  
 -segment ribeye using active contour method  
 -utilize superpixel to obtain blocks, then distinguish fat and lean blocks  
 -calculate far portion, fat blocks   portion and fractal dimension to get marbling grades    
-<img width="50%"  src="/img/profile/research/beefmarbling.png">
+<img width="30%"  src="/img/profile/research/beefmarbling.png">
 
 #### 【Teaching Experience】   
 **Teaching Assistant**  
 -I have been instruct students in problem session for 5 years at University of Texas at Dallas   
 -I instructed Calculus(1,2,3), Linear Algebra, Ordinary Differential Equation, Calculus(Cohort), Multivariable Calculus    
 -my average rating from students is 4.4 out of 5   
-<img width="50%"  src="/img/profile/research/labtocat.png"> 
+<img width="30%"  src="/img/profile/research/labtocat.png">
