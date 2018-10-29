@@ -10,9 +10,6 @@ includes a brief introduction to my academic research and work experience.
 A full list of my research and experience, including some pictures, is as following.
 
 ### 【Medical Image Processing and Analysis】  
-- One  
-- Two
-
 
 <!--
 <img style="float: left;"  width="30%"   src="/img/profile/research/labtocat.png">  
@@ -21,8 +18,9 @@ A full list of my research and experience, including some pictures, is as follow
 <img width="30%"  div align=left src="/img/profile/research/labtocat.png">  
 -->
 
-**Liver Cancer Reporting System**
+**Liver Cancer Reporting System**  
 
+<!--
 <div style="text-align: left">
 - design algorithm and write program on liver cancer reports based on ACL Li-RADS
 </div>
@@ -30,13 +28,16 @@ A full list of my research and experience, including some pictures, is as follow
 <div style="text-align: left">
 - integrate reporting system to software using Qt
 </div>
+-->
 
+-design algorithm and write program on liver cancer reports based on ACL Li-RADS  
+-integrate reporting system to software using Qt  
 <img width="50%"  src="/img/profile/research/labtocat.png">  
 
 
 **Liver Cancer Drug Effectiveness Evaluation**  
-- compute drug permeation on tumor i.e. Ktrans value  
-- evaluate effectiveness through statistics    
+-compute drug permeation on tumor i.e. Ktrans value  
+-evaluate effectiveness through statistics    
 
 
 **Coronary Artery Segmentation and 3D Visualization**  
