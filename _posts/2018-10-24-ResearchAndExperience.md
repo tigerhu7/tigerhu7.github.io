@@ -22,20 +22,20 @@ A full list of my research and experience, including some pictures, is as follow
 #### **Liver Cancer Reporting System**   
 <img width="30%" src="/img/profile/research/labtocat.png">  
 
--design algorithm and write program on liver cancer reports based on ACL Li-RADS  
--integrate reporting system to software using Qt
+* design algorithm and write program on liver cancer reports based on ACL Li-RADS  
+* integrate reporting system to software using Qt
 
 
 **Liver Cancer Drug Effectiveness Evaluation**  
--compute drug permeation on tumor i.e. Ktrans value  
--evaluate effectiveness through statistics    
+* compute drug permeation on tumor i.e. Ktrans value  
+* evaluate effectiveness through statistics    
 
 
 **Coronary Artery Segmentation and 3D Visualization**  
--detect and segment coronary arteries from CT Angiography images  
--retrieve coronary arteries, reconstruct them in 3D  
--calculate geometries for blood flow modelling  
--visualize narrowness and friction flow rate  
+* detect and segment coronary arteries from CT Angiography images  
+* retrieve coronary arteries, reconstruct them in 3D  
+* calculate geometries for blood flow modelling  
+* visualize narrowness and friction flow rate  
 
 <!--
 ![Aorta Surface](/img/profile/research/aorta_surface.png){:height="30px" width="100px"}
