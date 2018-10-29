@@ -12,7 +12,7 @@ A full list of my research and experience, including some pictures, is as follow
 #### 【Medical Image Processing and Analysis】  
 
 **Liver Cancer Reporting System**   
--design algorithm and write program on liver cancer reports based on ACL Li-RADS  
+-design algorithm and write program on liver cancer reports based on American College of Radiology's Li-RADS  
 -integrate reporting system to software using Qt  
 <img width="30%"  src="/img/profile/research/labtocat.png">  
 
@@ -20,21 +20,29 @@ A full list of my research and experience, including some pictures, is as follow
 **Liver Cancer Drug Effectiveness Evaluation**   
 -compute drug permeation on tumor i.e. Ktrans value  
 -evaluate effectiveness through statistics    
-<img width="30%"  src="/img/profile/research/labtocat.png">
+<img width="30%"  src="/img/profile/research/labtocat.png">  
 
 **Coronary Artery Segmentation and 3D Visualization**     
--detect and segment coronary arteries from CT Angiography images  
--retrieve coronary arteries, reconstruct them in 3D  
--calculate geometries for blood flow modelling  
--visualize narrowness and friction flow rate  
-<img width="30%"  src="/img/profile/research/coronary_3D.png">
+-detect and segment coronary arteries from CT Angiography images   
+-retrieve coronary arteries, reconstruct them in 3D    
+<img width="30%"  src="/img/profile/research/coronary_3D.png">  
 
-**Aorta Segmentation and Flow Simulation**     
--segment aorta of ascend, aortic arch and aorta of descend from Phase-Constrast MRI   
+**Coronary Artery Fractional Flow Rate Computation**  
+-calculate geometries for blood flow modelling      
+-compute fractional flow rate    
+-detect stenosis in coronary arteries    
+<img width="30%"  src="/img/profile/research/coronary_FFR.png">    
+
+
+**Aorta Segmentation and 3D Visualization**  
+-segment aorta of ascend, aortic arch and aorta of descend from Phase-Constrast MRI     
 -reconstruct them in 3D  
--retrieve velocity vector field from velocity Phases, and optimize velocity field   
--simulate flow in 3D, compute FFR, OSI, WSS and ect.  
-<img width="30%"  src="/img/profile/research/aorta_streamline.png">
+<img width="30%"  src="/img/profile/research/aorta_surface.png">  
+
+**Aorta Segmentation and Flow Simulation**      
+-retrieve velocity vector field from velocity Phases, and optimize velocity field     
+-simulate flow in 3D, compute Wall Shear Stress and ect.    
+<img width="30%"  src="/img/profile/research/aorta_streamline.png">  
 
 **Aorta CT and MRI Registration**    
 -segment aorta of same patient from different sources (CT, MRI)  
@@ -54,7 +62,7 @@ A full list of my research and experience, including some pictures, is as follow
 -estimate tumor position using symmetry measures  
 <img width="30%"  src="/img/profile/research/labtocat.png">
 
-####Shape Deformation
+#### 【Shape Deformation】
 
 **Geodesic Shooting Method in Shape Deformation**   
 -set up geodesic shooting equations for Large Diffeomorphic Deformation Metric Mapping    
@@ -78,7 +86,7 @@ A full list of my research and experience, including some pictures, is as follow
 
 #### 【Teaching Experience】   
 **Teaching Assistant**  
--I have been instruct students in problem session for 5 years at University of Texas at Dallas   
--I instructed Calculus(1,2,3), Linear Algebra, Ordinary Differential Equation, Calculus(Cohort), Multivariable Calculus    
+-I have been instructing students in problem session for 5 years at University of Texas at Dallas   
+-I instructed Calculus(1,2,3), Linear Algebra, Ordinary Differential Equation, Calculus(Cohort), Multivariable Calculus and ect    
 -my average rating from students is 4.4 out of 5   
 <img width="30%"  src="/img/profile/research/labtocat.png">
