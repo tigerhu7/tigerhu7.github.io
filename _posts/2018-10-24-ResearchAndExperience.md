@@ -10,13 +10,14 @@ includes a brief introduction to my academic research and work experience.
 A full list of my research and experience, including some pictures, is as following.
 
 ###  【Medical Image Processing and Analysis】
-<br/>
-<img style="float: left;"  width="30%"   src="/img/profile/research/labtocat.png">
-</br>
 
-**Liver Cancer Reporting System**   
+**Liver Cancer Reporting System**  
+<img style="float: left;"  width="30%"   src="/img/profile/research/labtocat.png">  
+
+```
 -design algorithm and write program on liver cancer reports based on ACL Li-RADS  
 -integrate reporting system to software using Qt
+```  
 
 
 
