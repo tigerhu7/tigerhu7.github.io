@@ -18,7 +18,7 @@ A full list of my research and experience, including some pictures, is as follow
 <img width="30%"  div align=left src="/img/profile/research/labtocat.png">  
 -->
 
-##### Liver Cancer Reporting System
+**Liver Cancer Reporting System**  
 
 <!--
 <div style="text-align: left">
@@ -36,12 +36,12 @@ A full list of my research and experience, including some pictures, is as follow
 <img width="50%"  src="/img/profile/research/labtocat.png">  
 
 
-##### Liver Cancer Drug Effectiveness Evaluation  
+**Liver Cancer Drug Effectiveness Evaluation**   
 -compute drug permeation on tumor i.e. Ktrans value  
 -evaluate effectiveness through statistics    
 
 
-##### Coronary Artery Segmentation and 3D Visualization  
+**Coronary Artery Segmentation and 3D Visualization**     
 -detect and segment coronary arteries from CT Angiography images  
 -retrieve coronary arteries, reconstruct them in 3D  
 -calculate geometries for blood flow modelling  
@@ -57,7 +57,7 @@ A full list of my research and experience, including some pictures, is as follow
 
 
 
-##### Aorta Segmentation and Flow Simulation  
+**Aorta Segmentation and Flow Simulation**     
 -segment aorta of ascend, aortic arch and aorta of descend from Phase-Constrast MRI   
 -reconstruct them in 3D  
 -retrieve velocity vector field from velocity Phases, and optimize velocity field   
@@ -66,7 +66,7 @@ A full list of my research and experience, including some pictures, is as follow
 <!--
 ![Aorta Streamline](/img/profile/research/aorta_streamline.png)
 -->
-**Aorta CT and MRI Registration**  
+**Aorta CT and MRI Registration**    
 -segment aorta of same patient from different sources (CT, MRI)
 -retrieve surface point cloud  
 -use revised RANSAC algorithm for registration of the two
