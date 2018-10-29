@@ -18,21 +18,9 @@ A full list of my research and experience, including some pictures, is as follow
 <img width="30%"  div align=left src="/img/profile/research/labtocat.png">  
 -->
 
-**Liver Cancer Reporting System**  
-
-<!--
-<div style="text-align: left">
-- design algorithm and write program on liver cancer reports based on ACL Li-RADS
-</div>
-
-<div style="text-align: left">
-- integrate reporting system to software using Qt
-</div>
--->
-
+**Liver Cancer Reporting System**   
 -design algorithm and write program on liver cancer reports based on ACL Li-RADS  
 -integrate reporting system to software using Qt  
-
 <img width="50%"  src="/img/profile/research/labtocat.png">  
 
 
@@ -47,32 +35,18 @@ A full list of my research and experience, including some pictures, is as follow
 -calculate geometries for blood flow modelling  
 -visualize narrowness and friction flow rate  
 
-<!--
-![Aorta Surface](/img/profile/research/aorta_surface.png){:height="30px" width="100px"}
--->
-<!--
-<img style="float: left;"  alt="drawing"  width="100"   src="/img/profile/research/aorta_surface.png">     
--->
-
-
-
-
 **Aorta Segmentation and Flow Simulation**     
 -segment aorta of ascend, aortic arch and aorta of descend from Phase-Constrast MRI   
 -reconstruct them in 3D  
 -retrieve velocity vector field from velocity Phases, and optimize velocity field   
 -simulate flow in 3D, compute FFR, OSI, WSS and ect.  
 
-<!--
-![Aorta Streamline](/img/profile/research/aorta_streamline.png)
--->
 **Aorta CT and MRI Registration**    
 -segment aorta of same patient from different sources (CT, MRI)
 -retrieve surface point cloud  
 -use revised RANSAC algorithm for registration of the two
-<!--
-![Aorta Registration](/img/profile/research/aorta_registration.png)
--->
+
+
 **Use Superpixel on Brain Tumor Detection**   
 -use SLICO to generate superpixels on brain MR image   
 -detect abnormal/tumor region using simulated annealing method    

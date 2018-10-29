@@ -166,11 +166,11 @@ email: "tigerhu7@yahoo.com"
 # In the past, he worked as a Linux kernel developer at the CERN CERT team, did Data Mining research at the University of Athens and innovated on Microsoft’s Office 365 cloud services.
 
 # Currently he is on a mission to accelerate Distributed Ledger Technologies."
-author_blurb: "Hufeng is an applied mathematician who is dedicated to intelligent healthcare field.
+author_blurb: "
+Hufeng is an applied mathematician who works in intelligent healthcare industry. Together with his team, he builds and tests verious algorithms in medical image processing, pathological analysis, artificial intelligent topics.
+"
+#He gained experience in various techniques in medical image processing and has worked on several projects including cardiovascular, hepatic, celebral topics.
 
-Currently, he lives in Hangzhou, China, where he works with great scientists and engineers to build and test algorithms in medical image processing, pathological analysis and etc.
-
-He gained experience in various techniques in medical image processing and has worked on several projects including cardiovascular, hepatic, celebral topics."
 author_blurb_image: "/img/me.jpg"
 
 ##################
