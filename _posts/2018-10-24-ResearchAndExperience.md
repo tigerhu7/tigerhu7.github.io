@@ -11,9 +11,17 @@ A full list of my research and experience, including some pictures, is as follow
 
 ###  【Medical Image Processing and Analysis】
 
+<!--
 <img style="float: left;"  width="30%"   src="/img/profile/research/labtocat.png">  
+-->
+<!--
+<img width="30%"  div align=left src="/img/profile/research/labtocat.png">  
+-->
+
 
 #### **Liver Cancer Reporting System**   
+<img width="30%" src="/img/profile/research/labtocat.png">  
+
 -design algorithm and write program on liver cancer reports based on ACL Li-RADS  
 -integrate reporting system to software using Qt
 
