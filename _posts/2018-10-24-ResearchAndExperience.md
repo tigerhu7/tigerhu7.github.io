@@ -9,7 +9,10 @@ My [**resume**](https://github.com/tigerhu7/tigerhu7.github.io/blob/master/_doc/
 includes a brief introduction to my academic research and work experience.
 A full list of my research and experience, including some pictures, is as following.
 
-###  【Medical Image Processing and Analysis】
+### 【Medical Image Processing and Analysis】  
+- One  
+- Two
+
 
 <!--
 <img style="float: left;"  width="30%"   src="/img/profile/research/labtocat.png">  
@@ -18,8 +21,7 @@ A full list of my research and experience, including some pictures, is as follow
 <img width="30%"  div align=left src="/img/profile/research/labtocat.png">  
 -->
 
-
-#### **Liver Cancer Reporting System**
+**Liver Cancer Reporting System**
 
 <div style="text-align: left">
 - design algorithm and write program on liver cancer reports based on ACL Li-RADS
