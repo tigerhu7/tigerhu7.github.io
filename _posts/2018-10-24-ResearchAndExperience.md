@@ -42,9 +42,9 @@ A full list of my research and experience, including some pictures, is as follow
 -simulate flow in 3D, compute FFR, OSI, WSS and ect.  
 
 **Aorta CT and MRI Registration**    
--segment aorta of same patient from different sources (CT, MRI)
--retrieve surface point cloud  
--use revised RANSAC algorithm for registration of the two
+-segment aorta of same patient from different sources (CT, MRI)  
+-retrieve surface point cloud   
+-use revised RANSAC algorithm for registration of the two  
 
 
 **Use Superpixel on Brain Tumor Detection**   
@@ -56,11 +56,11 @@ A full list of my research and experience, including some pictures, is as follow
 -compute optimal parameters  
 -estimate tumor position using symmetry measures  
 
-#### 【Shape Deformation】
+####Shape Deformation
 
-**Geodesic Shooting Method in Shape Deformation**  
--set up geodesic shooting equations for Large Diffeomorphic Deformation Metric Mapping  
--using various kernels/filters, to compare the results     
+**Geodesic Shooting Method in Shape Deformation**   
+-set up geodesic shooting equations for Large Diffeomorphic Deformation Metric Mapping    
+-using various kernels/filters, to compare the results      
 
 
 
@@ -75,11 +75,11 @@ A full list of my research and experience, including some pictures, is as follow
 **Beef Marbling Grading**  
 -segment ribeye using active contour method  
 -utilize superpixel to obtain blocks, then distinguish fat and lean blocks  
--calculate far portion, fat blocks   portion and fractal dimension to get marbling grades  
+-calculate far portion, fat blocks   portion and fractal dimension to get marbling grades    
 
 
 #### 【Teaching Experience】   
 **Teaching Assistant**  
--I have been instruct students in problem session for 5 years at University of Texas at Dallas  
--I instructed Calculus(1,2,3), Linear Algebra, Ordinary Differential Equation, Calculus(Cohort), Multivariable Calculus  
--my average rating from students is 4.4 out of 5  
+-I have been instruct students in problem session for 5 years at University of Texas at Dallas   
+-I instructed Calculus(1,2,3), Linear Algebra, Ordinary Differential Equation, Calculus(Cohort), Multivariable Calculus    
+-my average rating from students is 4.4 out of 5    
