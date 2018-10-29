@@ -9,7 +9,7 @@ My [**resume**](https://github.com/tigerhu7/tigerhu7.github.io/blob/master/_doc/
 includes a brief introduction to my academic research and work experience.
 A full list of my research and experience, including some pictures, is as following.
 
-### 【Medical Image Processing and Analysis】  
+#### 【Medical Image Processing and Analysis】  
 
 <!--
 <img style="float: left;"  width="30%"   src="/img/profile/research/labtocat.png">  
@@ -18,7 +18,7 @@ A full list of my research and experience, including some pictures, is as follow
 <img width="30%"  div align=left src="/img/profile/research/labtocat.png">  
 -->
 
-**Liver Cancer Reporting System**  
+###### Liver Cancer Reporting System
 
 <!--
 <div style="text-align: left">
@@ -30,19 +30,18 @@ A full list of my research and experience, including some pictures, is as follow
 </div>
 -->
 
-- design algorithm and write program on liver cancer reports based on ACL Li-RADS  
-- integrate reporting system to software using Qt  
+-design algorithm and write program on liver cancer reports based on ACL Li-RADS  
+-integrate reporting system to software using Qt  
 
-<!--
 <img width="50%"  src="/img/profile/research/labtocat.png">  
--->
 
-**Liver Cancer Drug Effectiveness Evaluation**  
+
+###### Liver Cancer Drug Effectiveness Evaluation  
 -compute drug permeation on tumor i.e. Ktrans value  
 -evaluate effectiveness through statistics    
 
 
-**Coronary Artery Segmentation and 3D Visualization**  
+###### Coronary Artery Segmentation and 3D Visualization  
 -detect and segment coronary arteries from CT Angiography images  
 -retrieve coronary arteries, reconstruct them in 3D  
 -calculate geometries for blood flow modelling  
@@ -58,7 +57,7 @@ A full list of my research and experience, including some pictures, is as follow
 
 
 
-**Aorta Segmentation and Flow Simulation**  
+###### Aorta Segmentation and Flow Simulation  
 -segment aorta of ascend, aortic arch and aorta of descend from Phase-Constrast MRI   
 -reconstruct them in 3D  
 -retrieve velocity vector field from velocity Phases, and optimize velocity field   
