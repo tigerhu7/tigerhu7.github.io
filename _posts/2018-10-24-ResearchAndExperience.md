@@ -20,7 +20,7 @@ A full list of my research and experience, including some pictures, is as follow
 **Liver Cancer Drug Effectiveness Evaluation**   
 -compute drug permeation on tumor i.e. Ktrans value  
 -evaluate effectiveness through statistics    
-<img width="30%"  src="/img/profile/research/labtocat.png">  
+<img width="30%"  src="/img/profile/research/Ktrans.png">  
 
 **Coronary Artery Segmentation and 3D Visualization**     
 -detect and segment coronary arteries from CT Angiography images   
