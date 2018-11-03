@@ -82,7 +82,7 @@ A full list of my research and experience, including some pictures, is as follow
 -segment ribeye using active contour method  
 -utilize superpixel to obtain blocks, then distinguish fat and lean blocks  
 -calculate far portion, fat blocks   portion and fractal dimension to get marbling grades    
-<img width="30%"  src="/img/profile/research/beefmarbling.png">
+<img width="30%"  src="/img/profile/research/beefmarbling_AC.png">
 
 #### 【Teaching Experience】   
 **Teaching Assistant**  
