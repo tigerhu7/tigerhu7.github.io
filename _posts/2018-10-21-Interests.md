@@ -9,7 +9,7 @@ I like traveling a lot, especially by cars. I picked up this habit when I was st
 To me, roadtrip is not only a way for fun, but also one way to know the world better.     
 
 
-Click this Google Map <strong> [Link](https://www.google.com/maps/d/edit?usp=sharing&mid=1y-J6Iklkuw_-7c0IFqkmLg5gsWyVQr6e/)
+Click this Google Map <strong> [Link](https://drive.google.com/open?id=1y-J6Iklkuw_-7c0IFqkmLg5gsWyVQr6e&usp=sharing/)
 </strong>
 to teleport to my footprint map of the world and trip routes.😊
 
