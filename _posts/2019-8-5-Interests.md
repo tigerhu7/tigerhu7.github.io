@@ -16,7 +16,7 @@ to teleport to my footprint map of the world and trip routes.😊
 -->
 
 
-Click this Google Map <strong> [Link](https://drive.google.com/open?id=1y-J6Iklkuw_-7c0IFqkmLg5gsWyVQr6e&usp=sharing/)
+Click this Polarsteps <strong> [Link](https://www.polarsteps.com/tigerhu7/)
 </strong>
 to teleport to my footprint map of the world and trip routes.😊
 
