@@ -150,7 +150,8 @@ timeline-img: "/img/career/default.jpg"
 # Contact layout #
 ##################
 
-email: "tigerhu7@yahoo.com"
+#email: "tigerhu7@yahoo.com"
+email: "tigerhu7@gmail.com"
 
 #pgp: "https://gist.github.com/le4ker/c1bdd195454e6fc1751a"
 
@@ -180,16 +181,16 @@ author_blurb_image: "/img/me.jpg"
 ##################
 
 social:
-  - title: "github"
-    url: "https://github.com/tigerhu7"
+  #- title: "github"
+  #  url: "https://github.com/tigerhu7"
   # - title: "linkedin"
   #   url: "https://linkedin.com/in/PanosSakkos"
   # - title: "twitter"
   #   url: "https://twitter.com/le4ker"
   # - title: "rss"
   #   url: "/feed.xml"
-  - title: "facebook"
-    url: "https://www.facebook.com/hufeng.wang"
+  #- title: "facebook"
+  #  url: "https://www.facebook.com/hufeng.wang"
 
 ############
 # 404 page #
