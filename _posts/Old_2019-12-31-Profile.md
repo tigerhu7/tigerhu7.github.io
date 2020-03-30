@@ -37,7 +37,7 @@ I love to travel and keep record of them. Welcome to visit my [**travel website*
 **3D Medical Imaging Software Development**  
 -add/modify segmentation algorithms (Graph Cut, Intelligent Scissors and etc)  
 -add/modify data analysis algorithms (Random Forest)  
-<img width="45%"  src="/img/profile/research/graphcut.jpg">  
+<img width="45%"  src="/img/profile/research/graphcut.png">  
 
 
 **Liver Vessels Segmentation and Couinaud Hepatic Classification**    
