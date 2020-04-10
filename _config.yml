@@ -102,8 +102,13 @@ disqus-shortname: "hufengwang"
 
 events:
 
+   - image: "/img/career/default.jpg"
+     date: "" #     "Apr 2020 - Today"
+     description: "Algorithm Engineer @ new company, Shanghai, China "
+
+
    - image: "/img/career/quantilogic.jpg"
-     date: "" #     "Jul 2018 - Today"
+     date: "" #     "Jul 2018 - Jan 2020"
      description: "Imaging Algorithm Engineer @ <a href=\"https://www.quantilogic.com.cn/\">Quantilogic Inc</a>, Hangzhou, China "
 
 
@@ -170,7 +175,7 @@ email: "tigerhu7@gmail.com"
 # Currently he is on a mission to accelerate Distributed Ledger Technologies."
 author_blurb: "
 Hufeng is an applied mathematician who works in intelligent healthcare industry. Together with his team, he builds and tests verious algorithms in medical image processing, pathological analysis, artificial intelligent topics.
-He lives in Hangzhou, China and loves to travel.
+He lives in Shanghai, China and loves to travel.
 "
 #He gained experience in various techniques in medical image processing and has worked on several projects including cardiovascular, hepatic, celebral topics.
 
