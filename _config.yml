@@ -104,7 +104,7 @@ events:
 
    - image: "/img/career/default.jpg"
      date: "" #     "Apr 2020 - Today"
-     description: "Algorithm Engineer @ <a href=\"https://www.harmon.health/\">Harmon Health</a>, Shanghai, China "
+     description: "Algorithm Engineer @ <a href=\"http://www.harmon.health/\">Harmon Health</a>, Shanghai, China "
 
 
    - image: "/img/career/quantilogic.jpg"
