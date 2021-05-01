@@ -17,7 +17,7 @@ This page contains links to my interests and list of my projects. :-)
 
 ### My Interests
 
-I love to travel and keep record of them. Welcome to visit my [**travel website**](https://www.polarsteps.com/tigerhu7) and my [**photo gallery**](https://tigerhu7.lofter.com).
+I love to travel and keep track of my footprints. Welcome to visit my [**travel website**](https://www.polarsteps.com/tigerhu7)).
 
 <!--
 ### List of My Projects
@@ -51,12 +51,14 @@ I love to travel and keep record of them. Welcome to visit my [**travel website*
 -preprocess CTA data and apply vesselness filters  
 -segment coronary arteries  
 -retrieve centerlines, calculate its arclength to inflow point and get radius of perpendicular section plane  
+-coronary artery centerline refinement
 -generate 3D mesh from point cloud of coronary artery surface  
 -display coronary arteries using MPR
 -compare Fractional Flow Reserve by CFD with the one measured with PressureWire    
 -detect suspicious stenosis     
 
 <img width="30%"  src="/img/profile/research/coronary_3D.png">  
+<img width="30%"  src="/img/profile/research/carefine.png">  
 <img width="30%"  src="/img/profile/research/coronary_FFR.png">  
 <img width="30%"  src="/img/profile/research/coronary_mpr.png">  
 
