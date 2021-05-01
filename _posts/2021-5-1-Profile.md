@@ -14,7 +14,6 @@ tags: [ 'profile, interests' ]
 This page contains links to my interests and list of my projects. :-)
 
 
-
 ### My Interests
 
 I love to travel and keep track of my footprints. Welcome to visit my [**travel website**](https://www.polarsteps.com/tigerhu7)).
@@ -47,7 +46,7 @@ I love to travel and keep track of my footprints. Welcome to visit my [**travel 
 
 
 <!--    冠状动脉项目        -->
-**Coronary Artery Segmentation, 3D Reconstruction and Computation**       
+**Coronary Artery Segmentation, 3D Reconstruction and Computation**       `
 -preprocess CTA data and apply vesselness filters  
 -segment coronary arteries  
 -retrieve centerlines, calculate its arclength to inflow point and get radius of perpendicular section plane  
