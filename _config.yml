@@ -14,7 +14,7 @@ syntax-highlight: True
 # Sections shown in the index page
 
 pages_list:
-  About: 'about简介'
+  About: 'about'
   #Blog: 'latest-post'
   Profile: 'latest-post'
   Timeline: 'timeline'
@@ -175,8 +175,7 @@ email: "tigerhu7@gmail.com"
 # Currently he is on a mission to accelerate Distributed Ledger Technologies."
 author_blurb: "
 Hufeng is an applied mathematician who works in AI + Medical Imaging industry. Together with his team, he builds and tests verious algorithms in medical image processing, pathological analysis, artificial intelligent topics.
-He lives in Shanghai, China and loves to travel. \n
-我是一位致力于人工智能+医学影像领域的应用数学家, 主要工作是图像处理,病理分析以及人工智能方面各种算法的设计与实现.我住在上海,喜欢旅游. \n
+He lives in Shanghai, China and loves to travel.
 "
 # 我是一位致力于人工智能+医学影像领域的应用数学家, 主要工作是图像处理,病理分析以及人工智能方面各种算法的设计与实现.我住在上海,喜欢旅游.
 
