@@ -65,7 +65,7 @@ I love to travel and keep track of my footprints. Welcome to visit my [**travel 
 
 
 <!--    医学影像软件开发项目        -->
-**3D Medical Imaging Integrated Software Development**  
+**3D Me`    dical Imaging Integrated Software Development**  
 -add/modify segmentation algorithms (Graph Cut, Fast Marching, Live Wire and etc)and integrate them into the software   
 -integrate live cancer reporting and diagnostic system (LiRADS)    
 -integrate trained liver cancer LiRADS features classifier  
