@@ -16,7 +16,7 @@ This page contains links to my interests and list of my projects. :-)
 
 ### My Interests
 
-I love to travel and keep track of my footprints. Welcome to visit my [**Journey Tracks**](https://www.polarsteps.com/tigerhu7)  and [**Gallery**](https://tigerhu7.lofter.com).
+I love to travel and keep track of my footprints. Welcome to visit my [**Journey Tracks**](https://www.polarsteps.com/tigerhu7) and [**Gallery**](https://tigerhu7.lofter.com).
 
 <!--
 ### List of My Projects
