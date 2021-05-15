@@ -119,11 +119,12 @@ events:
 
    - image: "/img/career/UTD.jpg"
      date: "" # "Aug 2010 - Jun 2016"
-     description: "Graduate Student and Teaching/Research Assistant @ <a href=\"https://www.utdallas.edu/\">University of Texas at Dallas</a>, Richardson, Texas "
+     description: "Graduate Student and Teaching/Research Assistant 研究生/助教 @ <a href=\"https://www.utdallas.edu/\">University of Texas at Dallas</a>, TX, USA 达拉斯德州大学， 美国"
 
    - image: "/img/career/qfnu.jpg"
      date: "" # "Sep 2006 - Jun 2010"
-     description: "Bachelor Student @ <a href=\"http://www.qfnu.edu.cn/\">Qufu Normal University</a>, Qufu, China"
+     #description: "Bachelor Student @ <a href=\"http://www.qfnu.edu.cn/\">Qufu Normal University</a>, Qufu, China"
+     description: "Bachelor Student 大学 @ <a href=\"http://www.qfnu.edu.cn/\">Qufu Normal University</a>, China 曲阜师范大学，中国"
 
 
   # - image: "/img/career/blocktopus.png"
