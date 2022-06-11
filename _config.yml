@@ -175,9 +175,12 @@ email: "tigerhu7@outlook.com"
 
 # Currently he is on a mission to accelerate Distributed Ledger Technologies."
 author_blurb: "
-Hufeng is an applied mathematician who works in AI + Medical Imaging industry. Together with his team, he builds and tests verious algorithms in medical image processing, pathological analysis and artificial intelligent topics.
+Hufeng is an applied mathematician who works in AI + Medical Imaging industry. 
+Together with his team, he builds and tests verious algorithms in medical image processing, pathological analysis and 
+artificial intelligent topics.
 He is also a funny guy who has multiple hobbies, like traveling, video-filming and painting. 
-Click [**here**](https://linktr.ee/tigerhu7) to know more.
+To know his work experience, please scroll down.
+To know his hobbies, please click this external [**link**](https://linktr.ee/tigerhu7).
 "
 #He lives in Shanghai and loves to travel.
 
@@ -207,7 +210,7 @@ social:
   # - title: "rss"
   #   url: "/feed.xml"
   #- title: "facebook"
-  #  url: "https://www.facebook.com/hufeng.wang"
+  #  url: "https://www.facebook.com/xxx"
 
 ############
 # 404 page #
